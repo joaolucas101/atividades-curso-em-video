@@ -1,4 +1,4 @@
-frase = "joão é foda e gosta de estudar t.i"
+frase = "joão gosta de estudar t.i"
 print ("a frase tem {} caracteres".format(len(frase)))
 '''aqui o len  vai identificar quantos caracteres tem a frase'''
 print ("a frase tem {} vezes a letra 'o'".format(frase.count('o')))
