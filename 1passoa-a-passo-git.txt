@@ -1,0 +1,7 @@
+git checkout -b  feat-nomedabranch
+apos ter modificado algo
+git add .
+git commit -m "titulo do commit"
+git push origin feat-nomedabranch
+git checkout main #voltou pra main
+git pull #pegou o que tem atualizado do github
