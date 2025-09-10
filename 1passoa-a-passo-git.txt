@@ -5,3 +5,18 @@ git commit -m "titulo do commit"
 git push origin feat-nomedabranch
 git checkout main #voltou pra main
 git pull #pegou o que tem atualizado do github
+_____________________________________________________________________________________
+se for a sua primeira ver colocando repositorio no gut hub:
+crie o repositorio no github
+desmarque a caixa de criar um arquivo.md 
+e crie
+depois va no seu terminal como por exemplo o do git ou o bash do vscode
+de um [git init]
+ para criar o arquivo .git
+ depois um [git add .]
+ para adicionar os arquivos
+ deposi faça um commit
+ [git commit -m "titulo do commit"]
+ para conectar o repositorio do github com o da sua maquina use:
+ git remote add origin (aqui coloca o lin https ou ssh do repositorio do github, mas sem os parenteses)
+ e pronto! ja estará no github e com as alteracoes que ja tinha
